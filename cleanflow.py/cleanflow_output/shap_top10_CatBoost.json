@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "TRQ_max_300",
+    "shap_importance": 3.1043749580200726
+  },
+  {
+    "feature": "TotalDepth",
+    "shap_importance": 2.368518846493042
+  },
+  {
+    "feature": "SPP",
+    "shap_importance": 1.7617545006701716
+  },
+  {
+    "feature": "ROP_max_300",
+    "shap_importance": 1.2624860071497896
+  },
+  {
+    "feature": "PumpFlow_max_300",
+    "shap_importance": 0.9771161713863526
+  },
+  {
+    "feature": "BitDepth",
+    "shap_importance": 0.7611822726877211
+  },
+  {
+    "feature": "PumpFlow_std_12",
+    "shap_importance": 0.6355961020679537
+  },
+  {
+    "feature": "ROP_std_60",
+    "shap_importance": 0.5317330989229399
+  },
+  {
+    "feature": "SPP_mean_300",
+    "shap_importance": 0.4866275221688419
+  },
+  {
+    "feature": "SPP_mean_12",
+    "shap_importance": 0.20930831016326007
+  }
+]
